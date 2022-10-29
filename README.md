@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 My name is Harrison Chukwudebube Udeh. I am a budding software developer, nurse and data analyst. I’m currently engaged at the Zuri I4G internship, which is an immense learning opportunity.
-🌱 I’m currently learning python, Javascript, Node.js.
-🕸 I have mastery of html, and css for web development.
-👯 I’m looking to collaborate on healthcare and general purpose web products. As well as mentorships.
+- 🔭 My name is Harrison Chukwudebube Udeh. I am a budding software developer, nurse and data analyst. I’m currently engaged at the Zuri I4G internship, which is an immense learning opportunity.
+- 🌱 I’m currently learning python, Javascript, Node.js.
+- 🕸 I have mastery of html, and css for web development.
+- 👯 I’m looking to collaborate on healthcare and general purpose web products. As well as mentorships.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@UdehHarrision)
 
