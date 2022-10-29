@@ -1,5 +1,12 @@
 ### Hi there 👋
+🔭 My name is Harrison Chukwudebube Udeh. I am a budding software developer, nurse and data analyst. I’m currently engaged at the Zuri I4G internship, which is an immense learning opportunity.
+🌱 I’m currently learning python, Javascript, Node.js.
+🕸 I have mastery of html, and css for web development.
+👯 I’m looking to collaborate on healthcare and general purpose web products. As well as mentorships.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@UdehHarrision)
 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/udeh_harrison)
 <!--
 **HarrisonUdeh/HarrisonUdeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
